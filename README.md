@@ -1,7 +1,5 @@
 # Nafiul Hadi Saputra - Personal Portfolio
 
-![Portfolio Preview](images/banner-data-engineer.jpg)
-
 ## 📌 Overview
 Welcome to my personal portfolio repository. I am a Data Professional with over 5 years of experience in data operations, governance, and pipeline architecture. This repository hosts the source code for my personal website, designed to showcase my technical competencies, featured projects, and professional background.
 
