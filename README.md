@@ -3,7 +3,7 @@
 ## 📌 Overview
 Welcome to my personal portfolio repository. I am a Data Professional with over 5 years of experience in data operations, governance, and pipeline architecture. This repository hosts the source code for my personal website, designed to showcase my technical competencies, featured projects, and professional background.
 
-**🔗 [Access Live Portfolio Here](https://NafiulSaputra.github.io)** *(Catatan: Hapus atau ganti link ini jika Anda menggunakan domain/hosting lain)*
+
 
 ## 🛠️ Tech Stack
 This static portfolio is engineered to be lightweight, fast, and fully responsive, utilizing:
@@ -18,10 +18,5 @@ This static portfolio is engineered to be lightweight, fast, and fully responsiv
 
 ## 🚀 How to Run Locally
 If you wish to run this project on your local machine:
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/NafiulSaputra/NafiulSaputra.github.io.git](https://github.com/NafiulSaputra/NafiulSaputra.github.io.git)
-
-   LinkedIn: Nafiul Hadi Saputra
-
+LinkedIn: Nafiul Hadi Saputra
 Email: afiksaputra14@gmail.com
